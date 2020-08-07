@@ -1,7 +1,12 @@
-### Hi there 👋
+### Hi there, I'm Lucas 👋
 
-![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Flucasluizss)
-[![Linkedin Badge](https://img.shields.io/badge/-Lucas%20Silva-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucasluizss/)](https://www.linkedin.com/in/lucasluizss/) 
+<p align="center">
+
+[<img src="https://github.com/lucasluizss/lucasluizss/blob/master/.github/assets/img/twitter.png" alt="Twitter" width="32" />](https://twitter.com/lucasluizss)
+[<img src="https://github.com/lucasluizss/lucasluizss/blob/master/.github/assets/img/linkedin.png" alt="Linkedin" width="32" />](https://www.linkedin.com/in/lucasluizss/)
+[<img src="https://github.com/lucasluizss/lucasluizss/blob/master/.github/assets/img/medium.png" alt="Medium" width="32" />](https://medium.com/@lucasluizss)
+
+</p>
 
 <!--
 **lucasluizss/lucasluizss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
