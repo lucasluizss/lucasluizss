@@ -1,15 +1,19 @@
-### Hi there, I'm Lucas 👋
+<h1 align="center"> Hi there, I'm Lucas 👋 </h1>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zerossb&show_icons=true" alt="zerossb" />
+  <img src="https://github-readme-stats.vercel.app/api?username=zerossb&show_icons=true" alt="lucasluizss" />
+
 </p>
-
 <p align="center">
-
-[<img src="https://github.com/lucasluizss/lucasluizss/blob/master/.github/assets/img/twitter.png" alt="Twitter" width="32" />](https://twitter.com/lucasluizss)
-[<img src="https://github.com/lucasluizss/lucasluizss/blob/master/.github/assets/img/linkedin.png" alt="Linkedin" width="32" />](https://www.linkedin.com/in/lucasluizss/)
-[<img src="https://github.com/lucasluizss/lucasluizss/blob/master/.github/assets/img/medium.png" alt="Medium" width="32" />](https://medium.com/@lucasluizss)
-
+  <a href="https://twitter.com/lucasluizss" target="_blank">
+    <img src="https://github.com/lucasluizss/lucasluizss/blob/master/.github/assets/img/twitter.png" alt="Twitter" width="32" />
+  </a>
+  <a href="https://www.linkedin.com/in/lucasluizss/" target="_blank">
+    <img src="https://github.com/lucasluizss/lucasluizss/blob/master/.github/assets/img/linkedin.png" alt="Linkedin" width="32" />
+  </a>
+  <a href="https://medium.com/@lucasluizss" target="_blank">
+    <img src="https://github.com/lucasluizss/lucasluizss/blob/master/.github/assets/img/medium.png" alt="Medium" width="32" />
+  </a>
 </p>
 
 <!--
