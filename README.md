@@ -1,6 +1,10 @@
 ### Hi there, I'm Lucas 👋
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zerossb&show_icons=true" alt="zerossb" />
+</p>
+
+<p align="center">
 
 [<img src="https://github.com/lucasluizss/lucasluizss/blob/master/.github/assets/img/twitter.png" alt="Twitter" width="32" />](https://twitter.com/lucasluizss)
 [<img src="https://github.com/lucasluizss/lucasluizss/blob/master/.github/assets/img/linkedin.png" alt="Linkedin" width="32" />](https://www.linkedin.com/in/lucasluizss/)
