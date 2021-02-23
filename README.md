@@ -6,13 +6,13 @@
 </p>
 <p align="center">
   <a href="https://twitter.com/lucasluizss" target="_blank">
-    <img src="https://github.com/lucasluizss/lucasluizss/blob/master/.github/assets/img/twitter.png" alt="Twitter" width="32" />
+    <img src="./.github/assets/img/twitter.png" alt="Twitter" width="32" />
   </a>
   <a href="https://www.linkedin.com/in/lucasluizss/" target="_blank">
-    <img src="https://github.com/lucasluizss/lucasluizss/blob/master/.github/assets/img/linkedin.png" alt="Linkedin" width="32" />
+    <img src="./.github/assets/img/linkedin.png" alt="Linkedin" width="32" />
   </a>
   <a href="https://medium.com/@lucasluizss" target="_blank">
-    <img src="https://github.com/lucasluizss/lucasluizss/blob/master/.github/assets/img/medium.png" alt="Medium" width="32" />
+    <img src="./.github/assets/img/medium.png" alt="Medium" width="32" />
   </a>
 </p>
 
