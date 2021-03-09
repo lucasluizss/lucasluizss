@@ -2,7 +2,12 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lucasluizss&show_icons=true" alt="lucasluizss" />
-
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucasluizss" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasluizss" />
 </p>
 <p align="center">
   <a href="https://twitter.com/lucasluizss" target="_blank">
