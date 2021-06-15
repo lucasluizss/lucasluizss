@@ -4,7 +4,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=lucasluizss&theme=dark&show_icons=true" alt="lucasluizss" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucasluizss" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucasluizss&theme=dark" />
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasluizss&theme=dark" />
