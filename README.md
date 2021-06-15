@@ -1,13 +1,13 @@
 <h1 align="center"> Hi there, I'm Lucas 👋 </h1>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lucasluizss&show_icons=true" alt="lucasluizss" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lucasluizss&theme=dark&show_icons=true" alt="lucasluizss" />
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucasluizss" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasluizss" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasluizss&theme=dark" />
 </p>
 <p align="center">
   <a href="https://twitter.com/lucasluizss" target="_blank">
