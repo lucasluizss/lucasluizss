@@ -1,31 +1,12 @@
-<h1 align="center"> Hi there, I'm Lucas 👋 </h1>
-
 <div align="center">
-  <img src="https://gpvc.arturio.dev/lucasluizss" alt="lucasluizss" />
+  <a href="https://lucaslab.dev" title="Lucas Lab" target="_blank">
+    <img alt="Lucas Lab" width="500" src="https://firebasestorage.googleapis.com/v0/b/lucaslab-6b081.appspot.com/o/full-logo.png?alt=media&token=efe9e597-b226-4362-8ec8-ce73cbb0a5f8" />
+  </a>
 </div>
 
-<div align="center">
-  <a href="https://twitter.com/lucasluizss" target="_blank">
-    <img alt="x-twitter" height="30" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg">
-  </a>
-  <a href="https://www.linkedin.com/in/lucasluizss/" target="_blank">
-    <img alt="x-linkedin" height="30" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg">
-  </a>
-  <a href="https://medium.com/@lucasluizss" target="_blank">
-    <img src="./.github/assets/img/medium.png" alt="Medium" width="32" />
-  </a>
-</div>
+<hr />
 
 <br>
-
-<!--
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasluizss&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="lucasluizss" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasluizss&layout=compact&langs_count=7&theme=dracula" alt="lucasluizss" />
-</div>
--->
-
-<hr>
 
 <div style="display: inline_block" align="center">
   <table>
