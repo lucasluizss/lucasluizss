@@ -50,6 +50,7 @@
         </td>
         <td>
           <img alt="x-azure" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-plain.svg" title="Azure" />
+          <img alt="x-gcloud" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original-wordmark.svg" title="Google Cloud" />
           <img alt="x-heroku" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg" title="Heroku" />
         </td>
       </tr>
