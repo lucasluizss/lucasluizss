@@ -2,7 +2,8 @@
   <a href="https://lucaslab.dev" title="Lucas Lab" target="_blank">
     <img alt="Lucas Lab" width="500" src="https://firebasestorage.googleapis.com/v0/b/lucaslab-6b081.appspot.com/o/full-logo.png?alt=media&token=efe9e597-b226-4362-8ec8-ce73cbb0a5f8" />
   </a>
-  <div>![count](https://komarev.com/ghpvc/?username=lucasluizss&color=blue)</div>
+  <br />
+  <img alt="Counting View" width="100" src="https://komarev.com/ghpvc/?username=lucasluizss&color=blue" />
 </div>
 
 <hr />
